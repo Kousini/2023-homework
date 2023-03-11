@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8c148485-fbd2-4d35-a054-3e680556cf5c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Triangle/TriangleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Triangle/isTriangle.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="JavaFXApplication" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\SMRJ\JavaHwebNSome\Maven\apache-maven-3.8.5\maven_repository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../SMRJ/JavaHwebNSome/Maven/apache-maven-3.8.5" />
+        <option name="userSettingsFile" value="D:\SMRJ\JavaHwebNSome\Maven\apache-maven-3.8.5\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2MpT0kh10SvMNa7WPNPGQe6w0tN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "last_opened_file_path": "D:/Train/javaTrain/gradle-demo/src/main/java/Triangle/Test.java",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "vcs.Git",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="Triangle" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.TriangleTest">
+    <configuration name="TriangleTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="gradle-demo.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Triangle.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Triangle" />
+      <option name="MAIN_CLASS_NAME" value="Triangle.TriangleTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TriangleTest.dbTriangle_test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="gradle-demo.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Triangle.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Triangle" />
+      <option name="MAIN_CLASS_NAME" value="Triangle.TriangleTest" />
+      <option name="METHOD_NAME" value="dbTriangle_test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TriangleTest.dyTriangle_test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="gradle-demo.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Triangle.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Triangle" />
+      <option name="MAIN_CLASS_NAME" value="Triangle.TriangleTest" />
+      <option name="METHOD_NAME" value="dyTriangle_test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TriangleTest.noTriangle_test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="gradle-demo.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Triangle.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Triangle" />
+      <option name="MAIN_CLASS_NAME" value="Triangle.TriangleTest" />
+      <option name="METHOD_NAME" value="noTriangle_test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TriangleTest.scalene_test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="gradle-demo.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Triangle.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Triangle" />
+      <option name="MAIN_CLASS_NAME" value="Triangle.TriangleTest" />
+      <option name="METHOD_NAME" value="scalene_test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TriangleTest" />
+        <item itemvalue="JUnit.TriangleTest.dyTriangle_test" />
+        <item itemvalue="JUnit.TriangleTest.dbTriangle_test" />
+        <item itemvalue="JUnit.TriangleTest.noTriangle_test" />
+        <item itemvalue="JUnit.TriangleTest.scalene_test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8c148485-fbd2-4d35-a054-3e680556cf5c" name="Changes" comment="" />
+      <created>1678463303969</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1678463303969</updated>
+      <workItem from="1678463306318" duration="2076000" />
+      <workItem from="1678499392805" duration="648000" />
+      <workItem from="1678500052171" duration="42000" />
+      <workItem from="1678500105557" duration="418000" />
+      <workItem from="1678500536777" duration="6520000" />
+      <workItem from="1678509209263" duration="748000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
